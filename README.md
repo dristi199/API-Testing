@@ -5,7 +5,7 @@ Manual API testing project performed on the DummyJSON REST API using Postman.
 
 ## Tools Used
 - Postman
-- Excel / Google Sheets
+- Excel 
 - GitHub
 ## Testing Performed
 - Functional Testing
